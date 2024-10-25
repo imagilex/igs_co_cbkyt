@@ -1,0 +1,3 @@
+[submodule "igs_app_base"]
+	path = igs_app_base
+	url = https://github.com/rramirez-git/igs_app_base.git
